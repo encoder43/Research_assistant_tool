@@ -1,4 +1,4 @@
-# End to end Text-Summarizer-Project
+# Research assistant tool
 
 ## Workflows
 
